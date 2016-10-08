@@ -1,0 +1,7 @@
+#Sat Oct 08 10:38:02 CEST 2016
+base.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\MasViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4656e20c28a4701476b1c5c6acf28a2a83f6d764
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\MasViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68ea3b6ee4cd4af9d001168cd024afec1b37c19f\\classes.dex
+base.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\MasViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68ea3b6ee4cd4af9d001168cd024afec1b37c19f
+file.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\MasViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4656e20c28a4701476b1c5c6acf28a2a83f6d764\\classes.dex
